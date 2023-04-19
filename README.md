@@ -6,15 +6,6 @@ M4L - Med For life is a Flutter app for online consultations to facilitate conta
 
 M4L - Med For life is a mobile application that aims to provide a convenient platform for doctors and patients to connect for online consultations. The app allows patients to book appointments with doctors, have video/audio consultations, and get prescriptions online. It also includes features like patient profile management, appointment history, and notifications.
 
-## Team
-
-The M4L - Med For life app is developed by Team Debug Entity, which consists of the following members:
-
-- Member 1 (@username1) - Team Lead, UI/UX Design
-- Member 2 (@username2) - Frontend Development
-- Member 3 (@username3) - Backend Development
-- Member 4 (@username4) - Testing and Quality Assurance
-
 ## Figma Link
 
 The UI/UX design of the M4L - Med For life app is available on Figma at the following link:
@@ -25,8 +16,8 @@ The UI/UX design of the M4L - Med For life app is available on Figma at the foll
 
 This app has the following dependencies:
 
-- Flutter (version X.X.X)
-- Dart (version X.X.X)
+- Flutter 
+- Dart
 
 You can install the dependencies using the following command:
 
